@@ -1,0 +1,2 @@
+# Android-CircleImage
+使用自定义View、自定义Drawable和自定义Picasso的Transformation绘制圆形头像
